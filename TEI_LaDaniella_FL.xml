@@ -7,7 +7,7 @@
       <!--Description bibliographique du fichier numérique ainsi que de sa source-->
       <fileDesc>
          
-         <!--Titre et nom de l'auteur liés au document encodé-->   
+         <!--Titre et nom de l'auteur-->   
          <titleStmt>
             <title>La Daniella</title>
             <author ref="https://catalogue.bnf.fr/ark:/12148/cb119236010">
@@ -18,7 +18,7 @@
             </author>
          </titleStmt>
          
-         <!--Information sur l'édition du document encodé--> 
+         <!--Informations sur l'édition du document encodé--> 
          <editionStmt>
             <edition>
                Encodage réalisé dans le cadre de l'évaluation finale du cours de XML TEI du master TNAH. <date when-iso="2022-01">Janvier 2022.</date>
